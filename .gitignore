@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/DSCN0010.jpg
+data/DSCN0010_sanitizada.jpg
